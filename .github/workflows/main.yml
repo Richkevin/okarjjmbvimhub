@@ -20,7 +20,7 @@ jobs:
 
         DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
 
-        DOCKERHUB_REPOSITORY: ${{ secrets.DOCKER_USERNAME }}/${{ secrets.DOCKER_REPO }}:okteto
+        DOCKERHUB_REPOSITORY: ${{ secrets.DOCKER_USERNAME }}/${{ secrets.DOCKER_REPO }}:okdjxj
 
       steps:
 
